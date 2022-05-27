@@ -1,4 +1,4 @@
-https://github.com/s1xthrose/Uchi-ru-challenge
+https://s1xthrose.github.io/Uchi-ru-challenge-Cats-Pinterest/
 
 Перед стартом убедитесь, что у вас установлен node.
 
