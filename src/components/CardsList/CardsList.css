@@ -1,0 +1,23 @@
+.card-list {
+  margin: 48px auto 10px;
+  padding: 0;
+  width: calc(100% - 124px);
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 225px);
+  gap: 47px;
+  justify-content: space-between;
+  list-style: none;
+}
+
+@media (max-width: 1150px) {
+  .card-list {
+    width: calc(100% - 200px);
+  }
+}
+
+@media (max-width: 970px) {
+  .card-list {
+    gap: 25px;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,36 @@
+.notfound {
+  position: relative;
+  height: calc(100vh - 224px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: 'PressStart2P';
+  text-align: center;
+}
+
+
+.notfound__heading {
+  font-size: 80px;
+  margin: 0;
+}
+
+.notfound__paragraph {
+  padding: 0 5px;
+}
+
+.notfound__image {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: -1;
+  width: 77px;
+  height: 83px;
+  background: url('../../images/css_sprites.png') -10px -10px;
+}
+
+@media (max-width: 926px) {
+  .notfound__heading {
+    font-size: 50px;
+  }
+}

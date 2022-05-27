@@ -1,0 +1,15 @@
+@import url(../../vendor/normalize.css);
+@import url(../../vendor/fonts/font.css);
+
+.app {
+  margin: 112px auto;
+  min-width: 320px;
+  min-height: 100vh;
+  color: #000000;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: -webkit-fill-available;
+}

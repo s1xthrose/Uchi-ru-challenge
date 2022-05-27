@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style:  normal;
+  font-weight: 400;
+  src: url('./Roboto-Regular.woff2') format("woff2"),
+       url('./Roboto-Regular.woff') format("woff"),
+       url('./Roboto-Regular.ttf') format("truetype"),
+       url('./Roboto-Regular.eot') format("eot");
+}
+
+@font-face {
+  font-family: 'PressStart2P';
+  font-style:  normal;
+  font-weight: 400;
+  src: url('./PressStart2P-Regular.woff2') format("woff2"),
+       url('./PressStart2P-Regular.woff') format("woff"),
+       url('./PressStart2P-Regular.ttf') format("truetype"),
+       url('./PressStart2P-Regular.eot') format("eot");
+}
