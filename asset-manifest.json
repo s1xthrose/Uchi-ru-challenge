@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Uchi-ru-challenge-Cats-Pinterest/static/css/main.3d13960f.chunk.css",
+    "main.js": "/Uchi-ru-challenge-Cats-Pinterest/static/js/main.0f7e3759.chunk.js",
+    "main.js.map": "/Uchi-ru-challenge-Cats-Pinterest/static/js/main.0f7e3759.chunk.js.map",
+    "runtime-main.js": "/Uchi-ru-challenge-Cats-Pinterest/static/js/runtime-main.ae6663fb.js",
+    "runtime-main.js.map": "/Uchi-ru-challenge-Cats-Pinterest/static/js/runtime-main.ae6663fb.js.map",
+    "static/js/2.a0d2ba51.chunk.js": "/Uchi-ru-challenge-Cats-Pinterest/static/js/2.a0d2ba51.chunk.js",
+    "static/js/2.a0d2ba51.chunk.js.map": "/Uchi-ru-challenge-Cats-Pinterest/static/js/2.a0d2ba51.chunk.js.map",
+    "static/js/3.7f6863a7.chunk.js": "/Uchi-ru-challenge-Cats-Pinterest/static/js/3.7f6863a7.chunk.js",
+    "static/js/3.7f6863a7.chunk.js.map": "/Uchi-ru-challenge-Cats-Pinterest/static/js/3.7f6863a7.chunk.js.map",
+    "index.html": "/Uchi-ru-challenge-Cats-Pinterest/index.html",
+    "static/css/main.3d13960f.chunk.css.map": "/Uchi-ru-challenge-Cats-Pinterest/static/css/main.3d13960f.chunk.css.map",
+    "static/js/2.a0d2ba51.chunk.js.LICENSE.txt": "/Uchi-ru-challenge-Cats-Pinterest/static/js/2.a0d2ba51.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Uchi-ru-challenge-Cats-Pinterest/static/media/Roboto-Regular.a8d6ac03.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae6663fb.js",
+    "static/js/2.a0d2ba51.chunk.js",
+    "static/css/main.3d13960f.chunk.css",
+    "static/js/main.0f7e3759.chunk.js"
+  ]
+}
