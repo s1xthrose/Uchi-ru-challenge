@@ -18,6 +18,6 @@
   npm run deploy
   ```
 
-### **технологии**
+### **Технологии**
 
 HTML, CSS, JS, React JS, The Cat API, IndexedDB, dexie
