@@ -1,4 +1,4 @@
-https://github.com/s1xthrose/Uchi-ru-challenge
+
 Перед стартом убедитесь, что у вас установлен node.
 
 1. Npm модуль
